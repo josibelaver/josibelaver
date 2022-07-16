@@ -1,9 +1,9 @@
 ### Oiii, eu sou Josiane Belaver!!! 
 
 
-- 🔭 Estou estudando Ciência de Dados para transição de carreira.
-- 🍎 Anteriormente fui nutricionista clínica por 5 anos.
-- 📊 Conheci a Ciência de Dados enquanto estudava Epidemiologia e me apaixonei.
+- 🔭 Estou estudando para transição de carreira.
+- 🍎 Anteriormente fui nutricionista clínica por 5 anos (de mar/2017 até mar/2022).
+- 📊 Meu sonho é tornar-me uma cientista de dados e de alguma forma unir a tecnologia com a área da saúde.
 
 <div>
   <a href="https://github.com/josibelaver">
