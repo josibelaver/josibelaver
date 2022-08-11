@@ -2,7 +2,8 @@
 
 
 - 🔭 Eu fui nutricionista por 5 anos, mas migrei para a área da tecnologia em janeiro de 2022.
-- ☁️ Atualmente sou Cloud Solutions Analyst I, na Capgemini. Empresa querida, que me formou e me contratou e por ela nutro uma eterna gratidão! ♥
+- ☁️ Atualmente sou Cloud Solutions Analyst I, na Capgemini, desde agosto/2022. 
+Empresa querida, que me formou e me contratou e por ela nutro uma eterna gratidão! ♥
 
 <div>
   <a href="https://github.com/josibelaver">
