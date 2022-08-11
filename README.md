@@ -1,9 +1,8 @@
 ### Oiii, eu sou Josiane Belaver!!! 
 
 
-- 🔭 Estou estudando para transição de carreira.
-- 🍎 Anteriormente fui nutricionista clínica por 5 anos (de mar/2017 até mar/2022).
-- 📊 Meu sonho é tornar-me uma cientista de dados, e de alguma forma, unir a tecnologia com a área da saúde.
+- 🔭 Eu fui nutricionista por 5 anos, mas migrei para a área da tecnologia em janeiro de 2022.
+- ☁️ Atualmente sou Cloud Solutions Analyst I, na Capgemini. Empresa querida, que me formou e me contratou e por ela nutro uma eterna gratidão! ♥
 
 <div>
   <a href="https://github.com/josibelaver">
