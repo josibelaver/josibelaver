@@ -1,8 +1,10 @@
-### Oiii, eu sou Josiane Belaver!!! 
+### Oiii, eu sou Josiane Belaver :wave:
 
 
 - 🔭 Eu fui nutricionista por 5 anos, mas migrei para a área da tecnologia em janeiro de 2022.
 - ☁️ Atualmente sou Cloud Analyst na Capgemini e atuo no Ifood.
+- E estou estudando o curso de graduação Ciência da Computação.
+- Tenho interesse na área de Ciência de dados e Desenvolvimento backend.
 
 <div>
   <a href="https://github.com/josibelaver">
